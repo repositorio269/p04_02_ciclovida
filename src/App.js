@@ -1,7 +1,9 @@
+import Padre from "./components/Padre";
+
 function App() {
   return (
     <div>
-      
+      <Padre />
     </div>
   );
 }
